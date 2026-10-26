@@ -83,4 +83,4 @@ RULES
 | Too many sounds | "Remove every sound except the stamp, the whooshes and the big number hit." |
 | You want a different look | "Rebuild in a different style" and attach the style brief |
 
-**Back to the [README](../README.md) for the pre-posting checklist.**
+**Back to the [README](../README.md).**

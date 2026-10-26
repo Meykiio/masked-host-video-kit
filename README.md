@@ -59,14 +59,6 @@ masked-host-video-kit/
 └── examples/           a complete worked example with images
 ```
 
-## Before you post (30 seconds)
-
-- [ ] The first frame already shows the claim as text
-- [ ] You watched it once on your phone, with and without sound
-- [ ] Every number and screenshot is real and labeled
-- [ ] Nothing important is in the top or bottom 10% of the screen (the app covers it)
-- [ ] There is a clear takeaway at the end
-
 ## Common problems
 
 | Problem | Fix |
