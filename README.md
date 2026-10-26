@@ -83,3 +83,7 @@ masked-host-video-kit/
 - Higgsfield and Claude change their tools and model names often. The method stays the same: describe a character, copy your movement onto it, and let Claude build the edit.
 - Real people and brands shown in your video must be shown accurately. Use real screenshots and real numbers.
 - TikTok and Instagram ask you to label AI-generated content. Turn the label on when you post.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
